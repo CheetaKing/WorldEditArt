@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language name="en" version="1.0" rel="1.0">
+    <authors since="1.0" updated="1.0">
+        <author>Cheetah</author>
+    </authors>
+    <constants>
+        <constant name="FORMAT_ERROR">§c</constant>
+        <constant name="FORMAT_WARNING">§e</constant>
+        <constant name="FORMAT_PROGRESS">§8</constant>
+        <constant name="FORMAT_SUCCESS">§a</constant>
+        <constant name="FORMAT_INFO">§f</constant>
+        <constant name="FORMAT_HIGHLIGHT">§b</constant>
+        <constant name="FORMAT_HIGHLIGHT_1">§b</constant>
+        <constant name="FORMAT_HIGHLIGHT_2">§9</constant>
+        <constant name="FORMAT_HIGHLIGHT_3">§5</constant>
+        <constant name="FORMAT_HIGHLIGHT_4">§d</constant>
+    </constants>
+    <values>
+    </values>
+</language>
